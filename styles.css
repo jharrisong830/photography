@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(155, 155, 155);
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    padding: 25px 25px;
+}
+h1 {
+    color:rgb(17, 147, 104);
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(17, 147, 104);
+}
