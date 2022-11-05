@@ -12,10 +12,13 @@ h1 {
 p {
     text-align: center;
 }
-a {
+nav {
     display: block;
-    padding: 16px;
+    padding: 8px;
     background-color: rgb(17, 147, 104);
+}
+a {
+    padding: 16px;
 }
 img {
     max-width: 50%;
