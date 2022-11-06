@@ -28,3 +28,10 @@ img {
 b {
     color:rgb(0, 157, 255);
 }
+nav img {
+    max-height: 21.3333px;
+    padding-right: 4px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
