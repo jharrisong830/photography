@@ -1,6 +1,6 @@
 body {
     background-color:rgb(255, 255, 255);
-    font-family: "Roboto Mono", monospace;
+    font-family: "Roboto Slab", serif;
     text-align: center;
     padding: 25px;
 }
@@ -13,6 +13,7 @@ p {
     text-align: center;
 }
 nav {
+    font-family: "Ubuntu", sans-serif;
     display: block;
     padding: 8px;
     background-color: rgb(17, 147, 104);
